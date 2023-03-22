@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Javier Carrizo an Environmental Specialist
 
-📈 I'm currently learning and working on data analytics and data science projects using python 
+📈 I'm currently learning and working on data analytics and data science projects using python  
 👀 I’m interested in data science, machine learning and deep learning   
 
 
